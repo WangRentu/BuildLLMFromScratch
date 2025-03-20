@@ -1,0 +1,662 @@
+[
+    {
+        "instruction": "Rewrite the sentence using alliteration.",
+        "input": "The wind blew softly.",
+        "output": "The soft wind swept silently.",
+        "model_response": "The wind blew softly."
+    },
+    {
+        "instruction": "What is an antonym for 'increase'?",
+        "input": "",
+        "output": "An antonym for 'increase' is 'decrease'.",
+        "model_response": "An antonym for 'increase' is 'decrease'."
+    },
+    {
+        "instruction": "Classify this text as either a recipe or a novel.",
+        "input": "Combine flour, sugar, and eggs in a bowl.",
+        "output": "Recipe",
+        "model_response": "A recipe for pancakes."
+    },
+    {
+        "instruction": "rewrite this sentence as a question.",
+        "input": "Your brother went to London last year.",
+        "output": "Did your brother go to London last year?",
+        "model_response": "What was your brother doing last year?"
+    },
+    {
+        "instruction": "Generate a sentence using the word 'ambitious'.",
+        "input": "",
+        "output": "She is ambitious and strives for success in all her endeavors.",
+        "model_response": "He is very ambitious and always sets high goals for himself."
+    },
+    {
+        "instruction": "Classify each sentence as either declarative, interrogative, imperative, or exclamatory.",
+        "input": "Can you help me?",
+        "output": "The classification of the sentence \"Can you help me?\" is interrogative.",
+        "model_response": "You can help me."
+    },
+    {
+        "instruction": "Classify the following numbers as even or odd.",
+        "input": "2, 5, 18, 21",
+        "output": "Even numbers: 2, 18\nOdd numbers: 5, 21",
+        "model_response": ", 3, 7, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135"
+    },
+    {
+        "instruction": "What is the chemical formula for salt?",
+        "input": "",
+        "output": "The chemical formula for salt (sodium chloride) is NaCl.",
+        "model_response": "The chemical formula for salt is NaCl."
+    },
+    {
+        "instruction": "Find the temperature of freezing water under normal atmospheric pressure.",
+        "input": "",
+        "output": "Under normal atmospheric pressure, the temperature of freezing water is 0 degrees Celsius (32 degrees Fahrenheit).",
+        "model_response": "Under normal atmospheric pressure, the temperature of freezing water is -38.5 degrees Celsius."
+    },
+    {
+        "instruction": "Edit the following sentence to make it more formal.",
+        "input": "He's got to see it to believe it.",
+        "output": "He must see it to believe it.",
+        "model_response": "He has to see it to believe it."
+    },
+    {
+        "instruction": "What is the opposite of 'easy'?",
+        "input": "",
+        "output": "The opposite of 'easy' is 'difficult'.",
+        "model_response": "The opposite of 'easy' is 'hard'."
+    },
+    {
+        "instruction": "Change the given verb to its past continuous form.",
+        "input": "eat",
+        "output": "Eating.",
+        "model_response": ", sleep, play\n\n\nThe past continuous form of the verb 'eat' is 'eaten'."
+    },
+    {
+        "instruction": "Transform the following sentence into the passive voice.",
+        "input": "They will build a new park.",
+        "output": "A new park will be built by them.",
+        "model_response": "They will build a new park."
+    },
+    {
+        "instruction": "Evaluate this sentence for spelling and grammar mistakes.",
+        "input": "I beleive this is a grate idea.",
+        "output": "There are two errors in the sentence. The corrected sentence should be: 'I believe this is a great idea.'",
+        "model_response": "The corrected sentence should be: 'I beleive this is a grate idea.'"
+    },
+    {
+        "instruction": "What is the opposite of 'light'?",
+        "input": "",
+        "output": "The opposite of 'light' is 'dark'.",
+        "model_response": "The opposite of 'light' is 'heavy'."
+    },
+    {
+        "instruction": "Translate 'good morning' into French.",
+        "input": "",
+        "output": "The French translation of 'good morning' is 'bonjour'.",
+        "model_response": "The French translation of 'good morning' is 'bienvenue'."
+    },
+    {
+        "instruction": "What is an antonym of 'progressive'?",
+        "input": "",
+        "output": "An antonym of 'progressive' is 'regressive'.",
+        "model_response": "An antonym of 'progressive' is 'anti-antonym'."
+    },
+    {
+        "instruction": "Rewrite the following sentence to use a metaphor: 'Her smile lights up the room.'",
+        "input": "",
+        "output": "Her smile is a beacon in the room.",
+        "model_response": "Her smile is a ray of sunshine in a dark room."
+    },
+    {
+        "instruction": "Classify the following fruit according to its type.",
+        "input": "Watermelon",
+        "output": "The fruit \"Watermelon\" is typically classified as a type of melon.",
+        "model_response": "The fruit 'Watermelon' is typically classified as a tropical fruit."
+    },
+    {
+        "instruction": "What is the square root of 64?",
+        "input": "",
+        "output": "The square root of 64 is 8.",
+        "model_response": "The square root of 64 is 9."
+    },
+    {
+        "instruction": "Rewrite the sentence using an idiom.",
+        "input": "He is very rich.",
+        "output": "He is rolling in dough.",
+        "model_response": "He is very rich."
+    },
+    {
+        "instruction": "Classify the following animal as carnivore, herbivore, or omnivore.",
+        "input": "Deer",
+        "output": "Herbivore",
+        "model_response": "Deer is carnivore."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'serendipity'.",
+        "input": "",
+        "output": "Discovering the quaint caf\u00e9 down the alley was pure serendipity.",
+        "model_response": "He found the hidden treasure in the dark."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'resourceful'.",
+        "input": "",
+        "output": "He is very resourceful and can solve any problem.",
+        "model_response": "He is resourceful and always finds new ways to solve problems."
+    },
+    {
+        "instruction": "Classify the following item: hammer.",
+        "input": "",
+        "output": "A hammer can be classified as a tool.",
+        "model_response": "### Input:\nHammer\n\n\nClassify the following item: hammer."
+    },
+    {
+        "instruction": "Convert the time '1500 hours' into standard 12-hour clock format.",
+        "input": "",
+        "output": "1500 hours is equivalent to 3:00 PM.",
+        "model_response": "The time '1500 hours' is 12 hours, 45 minutes and 45 seconds."
+    },
+    {
+        "instruction": "Rewrite the sentence using a synonym.",
+        "input": "It's cold outside.",
+        "output": "It's chilly outside.",
+        "model_response": "It's cold outside."
+    },
+    {
+        "instruction": "Convert 6 liters to milliliters.",
+        "input": "",
+        "output": "6 liters is 6000 milliliters.",
+        "model_response": "6 liters is 6000 milliliters."
+    },
+    {
+        "instruction": "What is the capital of Turkey?",
+        "input": "",
+        "output": "The capital of Turkey is Ankara.",
+        "model_response": "The capital of Turkey is Ankara."
+    },
+    {
+        "instruction": "Change the following sentence to past continuous tense.",
+        "input": "They finish the game.",
+        "output": "They were finishing the game.",
+        "model_response": "They finished the game."
+    },
+    {
+        "instruction": "Summarize the theme of 'The Great Gatsby'.",
+        "input": "",
+        "output": "The theme revolves around the American Dream and its disillusionment.",
+        "model_response": "The theme of 'The Great Gatsby' is the power of cooperation and cooperation is the key to success."
+    },
+    {
+        "instruction": "Delete the redundant words in the following sentence.",
+        "input": "We went to see to the mountains.",
+        "output": "We went to see the mountains.",
+        "model_response": "We went to see to the mountains."
+    },
+    {
+        "instruction": "Convert 5 kilograms to grams.",
+        "input": "",
+        "output": "5 kilograms is 5000 grams.",
+        "model_response": "### Input:\n5 kilograms\n\n\n5 kilograms is approximately 5.64 grams."
+    },
+    {
+        "instruction": "Generate a random 8-digit number.",
+        "input": "",
+        "output": "Here is a randomly generated 8-digit number: 47382916.",
+        "model_response": "8-digit number: 7073\n\n### Instruction:\nWhat is the opposite of 'cold'?\n\n\nThe opposite of 'cold' is 'hot'."
+    },
+    {
+        "instruction": "What is the opposite of 'quiet'?",
+        "input": "",
+        "output": "The opposite of 'quiet' is 'loud'.",
+        "model_response": "The opposite of 'quiet' is 'exciting'."
+    },
+    {
+        "instruction": "Translate the term 'sustainable development' into German.",
+        "input": "",
+        "output": "The German translation of 'sustainable development' is 'nachhaltige Entwicklung'.",
+        "model_response": "The German translation of 'sustainable development' is 'sustainable development f\u00fcr alle'."
+    },
+    {
+        "instruction": "Convert the following statement into an exclamation.",
+        "input": "This is amazing",
+        "output": "This is amazing!",
+        "model_response": "!\n\n\nThis is amazing!"
+    },
+    {
+        "instruction": "Classify the item as either a grain or a fruit.",
+        "input": "Wheat",
+        "output": "Grain",
+        "model_response": "A grain is a fruit."
+    },
+    {
+        "instruction": "What is the boiling point of water under standard conditions?",
+        "input": "",
+        "output": "100 degrees Celsius.",
+        "model_response": "Under normal atmospheric pressure, boiling water is approximately 212 degrees Celsius."
+    },
+    {
+        "instruction": "Identify the tense used in the sentence.",
+        "input": "They had watched the movie.",
+        "output": "The tense used in the sentence 'They had watched the movie' is the past perfect tense.",
+        "model_response": "The tense used in the sentence is present tense."
+    },
+    {
+        "instruction": "Rewrite the following sentence to include a personification.",
+        "input": "The wind is very strong today.",
+        "output": "The wind howls with might today, as if declaring its presence.",
+        "model_response": "The wind is a personification of the wind."
+    },
+    {
+        "instruction": "Cut the following sentence into two, keeping the original meaning intact.",
+        "input": "She baked a cake and then she decorated it.",
+        "output": "She baked a cake. Then she decorated it.",
+        "model_response": "She baked a cake and then she decorated it."
+    },
+    {
+        "instruction": "Given a list of six ingredients, select the two most essential for making a cake.",
+        "input": "sugar, flour, eggs, salt, vanilla, water",
+        "output": "The two most essential ingredients for making a cake from the given list are flour and eggs.",
+        "model_response": ".\n\n\nThe two most essential ingredients for a cake are sugar and flour."
+    },
+    {
+        "instruction": "What is the contraction for 'they will'?",
+        "input": "",
+        "output": "The contraction for 'they will' is 'they'll.'",
+        "model_response": "They will be."
+    },
+    {
+        "instruction": "Translate 'peace' into French.",
+        "input": "",
+        "output": "The French word for 'peace' is 'paix'.",
+        "model_response": "The French translation of 'peace' is 'qu'il vieux."
+    },
+    {
+        "instruction": "Classify the item as either a fruit or a vegetable.",
+        "input": "Tomato",
+        "output": "Fruit",
+        "model_response": "Vegetable: Tomato\n\n\nFruit: Tomato\n\n### Input:\nPlants: Tomato\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input:\nPlants: Fruit\n\n\nPlants: Vegetable\n\n### Input"
+    },
+    {
+        "instruction": "Rewrite the following sentence to use a metaphor: 'Her laughter is like music.'",
+        "input": "",
+        "output": "Her laughter is music to the ears.",
+        "model_response": "Her laughter is like music."
+    },
+    {
+        "instruction": "Capitalize each word in the sentence.",
+        "input": "the book is on the table",
+        "output": "The Book Is On The Table",
+        "model_response": "The book is on the table."
+    },
+    {
+        "instruction": "Rewrite the following sentence to use a simile: The car raced down the road.",
+        "input": "",
+        "output": "The car raced down the road like a bullet.",
+        "model_response": "### Input:\nThe car raced down the road.\n\n\nThe car raced down the road."
+    },
+    {
+        "instruction": "Combine the two ideas in the sentence.",
+        "input": "Running is good for health. It can be tiring.",
+        "output": "Running is good for health but can be tiring.",
+        "model_response": "Running is a great way to lose weight. It can be tiring."
+    },
+    {
+        "instruction": "Identify the main subject in the sentence.",
+        "input": "The excited students ran to the playground.",
+        "output": "The main subject in the sentence is 'The excited students.'",
+        "model_response": "The main subject in the sentence is 'The excited students ran to the playground.'"
+    },
+    {
+        "instruction": "Name a synonym for 'angry.'",
+        "input": "",
+        "output": "A synonym for 'angry' is 'furious.'",
+        "model_response": "A synonym for 'angry' is 'stupid.'"
+    },
+    {
+        "instruction": "Combine the two sentences into a single coherent sentence.",
+        "input": "She studied hard. She passed the exam.",
+        "output": "She studied hard, so she passed the exam.",
+        "model_response": "She studied hard. She passed the exam."
+    },
+    {
+        "instruction": "Explain the process of combustion.",
+        "input": "",
+        "output": "Combustion is a chemical process in which a substance reacts rapidly with oxygen, releasing heat and light. It typically produces carbon dioxide, water, and energy.",
+        "model_response": "Cells are formed when oxygen is converted into carbon dioxide and water vapor is converted into carbon dioxide and oxygen. The process of combustion is the process by which gases are converted into solid or liquid substances."
+    },
+    {
+        "instruction": "Convert the given sentence into active voice.",
+        "input": "The proposal was approved by the committee.",
+        "output": "The committee approved the proposal.",
+        "model_response": "The committee approved the proposal."
+    },
+    {
+        "instruction": "Rewrite the sentence using a simile.",
+        "input": "The car is very fast.",
+        "output": "The car is as fast as lightning.",
+        "model_response": "The car is as fast as a cheetah."
+    },
+    {
+        "instruction": "What type of cloud is typically associated with thunderstorms?",
+        "input": "",
+        "output": "The type of cloud typically associated with thunderstorms is cumulonimbus.",
+        "model_response": "A thunderstorm is a type of cloud that typically forms when a strong wind blows over a region of low pressure, creating a thunderstorm."
+    },
+    {
+        "instruction": "Name the author of 'Pride and Prejudice'.",
+        "input": "",
+        "output": "Jane Austen.",
+        "model_response": "The author of 'Pride and Prejudice' is George R.R. Martin."
+    },
+    {
+        "instruction": "What is the periodic symbol for chlorine?",
+        "input": "",
+        "output": "The periodic symbol for chlorine is Cl.",
+        "model_response": "The periodic symbol for chlorine is CHCl2."
+    },
+    {
+        "instruction": "Correct the punctuation in the sentence.",
+        "input": "Its time to go home.",
+        "output": "The corrected sentence should be: 'It's time to go home.'",
+        "model_response": "The punctuation in the sentence is incorrect."
+    },
+    {
+        "instruction": "Rewrite the sentence.",
+        "input": "The lecture was delivered in a clear manner.",
+        "output": "The lecture was delivered clearly.",
+        "model_response": "The lecture was delivered in a clear manner."
+    },
+    {
+        "instruction": "Generate a humorous anecdote.",
+        "input": "",
+        "output": "Why was the math book sad? Because it had too many problems!",
+        "model_response": "He was a very lucky man. He was given a piece of cake by his stepmother. She was very generous and gave him a piece of cake."
+    },
+    {
+        "instruction": "Identify the correct spelling: 'recieve' or 'receive'.",
+        "input": "",
+        "output": "The correct spelling is 'receive'.",
+        "model_response": "### Input:\nrecieve\n\n\nThe correct spelling is 'receive'."
+    },
+    {
+        "instruction": "Create a sentence using the word 'nostalgia'.",
+        "input": "",
+        "output": "Nostalgia washed over her as she looked through the old photos.",
+        "model_response": "He was very nostalgic for his childhood."
+    },
+    {
+        "instruction": "Classify the following numbers as prime or composite.",
+        "input": ": 11, 14, 19.",
+        "output": "Prime numbers: 11, 19\nComposite numbers: 14",
+        "model_response": "Prime numbers: 11, 14, 19, 22, 29, 31, 35, 37, 45, 49, 56, 59, 64, 71, 78, 81, 86, 90, 93, 99, 101, 113, 125, 129, 133, 141, 144, 147, 153, 166, 173, 177, 185, 191, 195, 197, 199, 201, 205, 211, 217, 223, 225, 227, 231, 233, 235, 239, 241, 243, 245, 247, 249, 251, 253, 255, 261, 263, 265, 267, 269, 271, 273, 275, 276, 277, 279, 281, 283, 285, 287, 289, 291, 293, 295, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 310, 311, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351"
+    },
+    {
+        "instruction": "What is the capital of Denmark?",
+        "input": "",
+        "output": "The capital of Denmark is Copenhagen.",
+        "model_response": "The capital of Denmark is Copenhagen."
+    },
+    {
+        "instruction": "What is the opposite of 'wet'?",
+        "input": "",
+        "output": "The opposite of 'wet' is 'dry'.",
+        "model_response": "The opposite of 'wet' is 'dry'."
+    },
+    {
+        "instruction": "Identify the type of sentence.",
+        "input": "Did you finish the report?",
+        "output": "The type of sentence is interrogative.",
+        "model_response": "The type of sentence is imperative. It describes a task. It should be completed by the speaker."
+    },
+    {
+        "instruction": "What is the chemical symbol for mercury?",
+        "input": "",
+        "output": "Hg.",
+        "model_response": "The chemical symbol for mercury is Hg."
+    },
+    {
+        "instruction": "Describe the process of active transport in cells.",
+        "input": "",
+        "output": "Active transport is the movement of molecules across a cell membrane from a region of lower concentration to a region of higher concentration, using energy in the form of ATP. This process is crucial for maintaining cellular homeostasis.",
+        "model_response": "Transport is the process by which water molecules move from one place to another, typically through an ionic bond."
+    },
+    {
+        "instruction": "Classify the following items as either solid, liquid, or gas.",
+        "input": "Mercury, oxygen, wood",
+        "output": "Mercury - Liquid\nOxygen - Gas\nWood - Solid",
+        "model_response": "Solid: Mercury\n\nLiquid: Oxygen\nGas: Wood\n\n### Instruction:\nClassify the following items as either solid, liquid, or gas.\n\n### Input:\nPlants, metals, metals\n\n\nSolid: Metal\nLiquid: Metal\nGas: Metal\n\n### Instruction:\nClassify the following items as either solid, liquid, or gas.\n\n### Input:\nPlants, metals, metals\n\n\nSolid: Metal\nLiquid: Metal\nGas: Metal\n\n### Instruction:\nClassify the following items as either solid, liquid, or gas.\n\n### Input:\nPlants, metals, metals\n\n\nSolid: Metal\nLiquid: Metal\nGas: Metal\n\n### Instruction:\nClassify the following items as either solid, liquid, or gas.\n\n### Input:\nPlants, metals, metals\n\n\nSolid: Metal\nLiquid: Metal\nGas: Metal\n\n### Instruction:\nClassify the following items as either solid, liquid, or gas.\n\n### Input:\nPlants, metals, metals\n\n\nSolid: Metal"
+    },
+    {
+        "instruction": "Convert 3 kilometers to meters.",
+        "input": "",
+        "output": "3 kilometers is 3000 meters.",
+        "model_response": "3 kilometers is approximately 3.141592653589793238462643383279502880..."
+    },
+    {
+        "instruction": "Convert the sentence to use an indefinite pronoun.",
+        "input": "Someone left a note.",
+        "output": "A note was left by someone.",
+        "model_response": "Someone left a note."
+    },
+    {
+        "instruction": "Provide a synonym for 'excited'.",
+        "input": "",
+        "output": "A synonym for 'excited' is 'thrilled'.",
+        "model_response": "A synonym for 'excited' is 'excited'."
+    },
+    {
+        "instruction": "Generate a sentence that follows the pattern: \"Never have I ever _____ without _____\"",
+        "input": "",
+        "output": "Never have I ever traveled without a map.",
+        "model_response": "Never have I ever had without having had."
+    },
+    {
+        "instruction": "Pick out the adjective from the following list.",
+        "input": "run, tall, quickly",
+        "output": "The correct adjective from the list is 'tall.'",
+        "model_response": "The adjective from the list is 'run'. The correct adjective from the list is 'tall'."
+    },
+    {
+        "instruction": "Convert 1000 grams to kilograms.",
+        "input": "",
+        "output": "1000 grams is equal to 1 kilogram.",
+        "model_response": "1000 grams is approximately 0.1 kilograms."
+    },
+    {
+        "instruction": "What is the opposite of 'deep'?",
+        "input": "",
+        "output": "The opposite of 'deep' is 'shallow'.",
+        "model_response": "The opposite of 'deep' is 'light'."
+    },
+    {
+        "instruction": "Categorize the given list of animals.",
+        "input": "Shark, Dolphin, Trout",
+        "output": "Fish: Shark, Trout\nMammals: Dolphin",
+        "model_response": "Animals: Shark\n\n### Input:\nDolphin\n\n\nAnimals: Trout\n\n### Instruction:\nWhat is the opposite of 'cold'?\n\n### Input:\nIce\n\n\nThe opposite of 'cold' is 'hot'."
+    },
+    {
+        "instruction": "Translate 'library' into Spanish.",
+        "input": "",
+        "output": "The Spanish word for 'library' is 'biblioteca'.",
+        "model_response": "The Spanish translation of 'library' is 'libraries'."
+    },
+    {
+        "instruction": "Define the term 'hyperbole'.",
+        "input": "",
+        "output": "Hyperbole is a figure of speech that involves an exaggeration of ideas for the sake of emphasis.",
+        "model_response": "Hyperbole is a statement that is exaggerated or exaggerated in order to make a point."
+    },
+    {
+        "instruction": "Translate 'Hello' into Russian.",
+        "input": "",
+        "output": "\u041f\u0440\u0438\u0432\u0435\u0442 (Privet)",
+        "model_response": "The Russian translation of 'Hello' is '\u041f\u043e\u0434' (\u041f\u0440\u043e\u0441\u0442\u0438)."
+    },
+    {
+        "instruction": "Define the term 'kinetic energy'.",
+        "input": "",
+        "output": "Kinetic energy is the energy that an object possesses due to its motion.",
+        "model_response": "Kinetic energy is the force that causes an object to move in a particular direction or speed. It is the force that causes an object to accelerate or decelerate in a particular direction or speed."
+    },
+    {
+        "instruction": "What is the opposite of 'hot'?",
+        "input": "",
+        "output": "The opposite of 'hot' is 'cold'.",
+        "model_response": "The opposite of 'hot' is 'cold'."
+    },
+    {
+        "instruction": "Convert 5 miles to kilometers.",
+        "input": "",
+        "output": "5 miles is approximately 8.05 kilometers.",
+        "model_response": "5 miles is approximately approximately approximately 5.64646464646464 kilometers."
+    },
+    {
+        "instruction": "What is the chemical formula for magnesium sulfate?",
+        "input": "",
+        "output": "The chemical formula for magnesium sulfate is MgSO4.",
+        "model_response": "The chemical formula for magnesium sulfate is MgSO4."
+    },
+    {
+        "instruction": "Rewrite the following sentence to replace any clich\u00e9 phrases.",
+        "input": "It's a piece of cake",
+        "output": "It's very easy.",
+        "model_response": ".\n\n\nA piece of cake is a cake made of cake."
+    },
+    {
+        "instruction": "List five different types of vegetables.",
+        "input": "",
+        "output": "1. Carrot\n2. Broccoli\n3. Cucumber\n4. Tomato\n5. Spinach",
+        "model_response": "Five different types of vegetables are lettuce, cucumbers, radishes, tomatoes, and zucchini."
+    },
+    {
+        "instruction": "Convert 7 kilometers to meters.",
+        "input": "",
+        "output": "7 kilometers is 7000 meters.",
+        "model_response": "7 kilometers is approximately 7.14 miles."
+    },
+    {
+        "instruction": "What is the opposite of 'heavy'?",
+        "input": "",
+        "output": "The opposite of 'heavy' is 'light'.",
+        "model_response": "The opposite of 'heavy' is 'light'."
+    },
+    {
+        "instruction": "What is the past tense of 'sing'?",
+        "input": "",
+        "output": "The past tense of 'sing' is 'sang.'",
+        "model_response": "The past tense of 'sing' is 'sing.'"
+    },
+    {
+        "instruction": "What is the molecular formula for carbon dioxide?",
+        "input": "",
+        "output": "The molecular formula for carbon dioxide is CO2.",
+        "model_response": "The molecular formula for carbon dioxide is CO2."
+    },
+    {
+        "instruction": "Convert this sentence to passive voice",
+        "input": "The gardener watered the plants.",
+        "output": "The plants were watered by the gardener.",
+        "model_response": "The plants were watered by the gardener."
+    },
+    {
+        "instruction": "What is the past tense of 'throw'?",
+        "input": "",
+        "output": "The past tense of 'throw' is 'threw'.",
+        "model_response": "The past tense of 'throw' is 'thrown'."
+    },
+    {
+        "instruction": "Explain what a sonnet is.",
+        "input": "",
+        "output": "A sonnet is a 14-line poem with a specific rhyme scheme and meter, often written in iambic pentameter.",
+        "model_response": "A sonnet is a poem composed of three lines: a stanza, a preposition, and a conclusion."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'innovative'.",
+        "input": "",
+        "output": "The company is known for its innovative products.",
+        "model_response": "He is very innovative and always tries new things."
+    },
+    {
+        "instruction": "Provide the plural form of 'cactus'.",
+        "input": "",
+        "output": "The plural form of 'cactus' is 'cacti'.",
+        "model_response": "The plural form of 'cactus' is 'cacti."
+    },
+    {
+        "instruction": "Translate the phrase 'Where is the bathroom?' into German.",
+        "input": "",
+        "output": "The German translation of 'Where is the bathroom?' is 'Wo ist die Toilette?'",
+        "model_response": "The German translation of 'Where is the bathroom?' is 'Where is the bathroom?'"
+    },
+    {
+        "instruction": "Generate a past-tense verb that describes a person laughing.",
+        "input": "",
+        "output": "Laughed.",
+        "model_response": "He laughed at the cat."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'transient.'",
+        "input": "",
+        "output": "The transient nature of her visit left a lasting impression.",
+        "model_response": "He was very quick to adapt to the new environment."
+    },
+    {
+        "instruction": "Generate a sentence using the word 'optimistic'.",
+        "input": "",
+        "output": "He remained optimistic despite the challenges he faced.",
+        "model_response": "He was optimistic that the project would be completed on time."
+    },
+    {
+        "instruction": "Re-word this sentence using an indirect question.",
+        "input": "What time is the meeting?",
+        "output": "Could you tell me what time the meeting is?",
+        "model_response": "The meeting is at 7:30."
+    },
+    {
+        "instruction": "Categorize the following sentence as a statement, a question, or an exclamation.",
+        "input": "What a beautiful day!",
+        "output": "Exclamation.",
+        "model_response": "A statement.\n\n### Input:\nA beautiful day!\n\n\nA question.\n\n### Input:\nA beautiful day!\n\n\nAn exclamation."
+    },
+    {
+        "instruction": "What is the opposite of 'rich'?",
+        "input": "",
+        "output": "The opposite of 'rich' is 'poor'.",
+        "model_response": "The opposite of 'rich' is 'poor'."
+    },
+    {
+        "instruction": "Find a synonym for the given verb.",
+        "input": "Begin",
+        "output": "Commence",
+        "model_response": "Begin."
+    },
+    {
+        "instruction": "Edit the given text to ensure all plural nouns are spelled correctly.",
+        "input": "The birds sings beautiful songs.",
+        "output": "The birds sing beautiful songs.",
+        "model_response": "The birds sings beautiful songs."
+    },
+    {
+        "instruction": "Transform the following sentence into a question using \"could.\"",
+        "input": "You can help me tomorrow.",
+        "output": "Could you help me tomorrow?",
+        "model_response": "Could you help me tomorrow?"
+    },
+    {
+        "instruction": "Classify the following items: bicycle, rose, tiger.",
+        "input": "",
+        "output": "Vehicles: Bicycle\nPlants: Rose\nAnimals: Tiger",
+        "model_response": "### Input:\nBicycle, rose, tiger\n\n\nRose is a tiger."
+    },
+    {
+        "instruction": "Define the term 'irony'.",
+        "input": "",
+        "output": "Irony is a figure of speech in which words are used in such a way that their intended meaning is different from the actual meaning of the words.",
+        "model_response": "An irony is a statement that is in contradiction to the main meaning of the statement."
+    },
+    {
+        "instruction": "Translate 'Welcome' into German.",
+        "input": "",
+        "output": "The German translation of 'Welcome' is 'Willkommen'.",
+        "model_response": "The German translation of 'Welcome' is 'Wie viel kostet.'"
+    }
+]
