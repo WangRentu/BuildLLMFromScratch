@@ -42,4 +42,3 @@ pip install torch torchvision
 ```
 ## 重要参考
 1. https://github.com/rasbt/LLMs-from-scratch/tree/main
-2. https://www.youtube.com/watch?v=Xpr8D6LeAtw&t=17s
